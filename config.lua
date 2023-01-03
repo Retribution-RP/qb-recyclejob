@@ -16,7 +16,7 @@ Config = {
 	MaxItemsReceived 	= 5,
 	MinItemReceivedQty 	= 2,
 	MaxItemReceivedQty 	= 6,
-	ChanceItem 			= "cryptostick",
+	ChanceItem 			= "rubber",
 	LuckyItem 			= "rubber",
 	
 	PickupLocations = {
@@ -62,5 +62,6 @@ Config = {
 		[5] = "aluminum",
 		[6] = "steel",
 		[7] = "glass",
+		[8] = "rubber"
 	}
 }
